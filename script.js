@@ -2,15 +2,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const articles = [
         {
             title: "Writing Your First C Function at 42 School",
-            link: "content/Writing_Your_First_C_Function_at_42_School_-_ft_putchar.html"
+            link: "https://jmehmy42.github.io/content/articles/Writing_Your_First_C_Function_at_42_School_-_ft_putchar.html"
         },
         {
             title: "Mastering Command Line Arguments in C",
-            link: "content/Mastering_Command_Line_Arguments_in_C:_A_Comprehensive_Guide_with_Examples.html"
+            link: "https://jmehmy42.github.io/content/articles/Mastering_Command_Line_Arguments_in_C:_A_Comprehensive_Guide_with_Examples.html"
         },
         {
             title: "Understanding Variables and Constants in C Programming",
-            link: "content/Understanding_Variables_and_Constants_in_C_Programming:_A_Complete_Guide_for_Beginners.html"
+            link: "https://jmehmy42.github.io/content/articles/Understanding_Variables_and_Constants_in_C_Programming:_A_Complete_Guide_for_Beginners.html"
         }
     ];
 
