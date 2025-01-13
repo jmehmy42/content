@@ -1,4 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // Create a link element for the stylesheet
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'styles.css'; // Update the path to your actual stylesheet
+
+    // Append the stylesheet to the head
+    document.head.appendChild(link);
+
     const articles = [
         {
             title: "Writing Your First C Function at 42 School",
