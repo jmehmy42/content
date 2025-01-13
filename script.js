@@ -6,11 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: "Mastering Command Line Arguments in C",
-            link: "https://jmehmy42.github.io/content/articles/Mastering_Command_Line_Arguments_in_C:_A_Comprehensive_Guide_with_Examples.html"
+            link: "https://jmehmy42.github.io/content/articles/Mastering_Command_Line_Arguments_in_C__A_Comprehensive_Guide_with_Examples.html"
         },
         {
             title: "Understanding Variables and Constants in C Programming",
-            link: "https://jmehmy42.github.io/content/articles/Understanding_Variables_and_Constants_in_C_Programming:_A_Complete_Guide_for_Beginners.html"
+            link: "https://jmehmy42.github.io/content/articles/Understanding_Variables_and_Constants_in_C_Programming__A_Complete_Guide_for_Beginners.html"
         }
     ];
 
