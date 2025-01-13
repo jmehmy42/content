@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Create a link element for the stylesheet
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = 'styles.css'; // Path to your CSS file
+    link.href = 'content/styles.css'; // Path to your CSS file
 
     // Append the stylesheet to the head
     document.head.appendChild(link);
